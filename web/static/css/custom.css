@@ -1,0 +1,71 @@
+
+
+.passcode{
+	width:100%;
+}
+
+.passcode input{
+	width:15%;
+	margin:4%;
+	height:45px;
+	text-align:center;
+}
+
+h1,h2{
+	font-family:Helvetica;
+	text-transform:uppercase;
+	font-size:32px;
+	font-weight:700;
+	line-height:1.1em;
+	margin:10px 0;
+	
+}
+
+h1 span{
+	color: #006ABB;
+}
+
+
+body{
+	background:black;
+	color:white;
+	
+	background-image:url('/static/images/background.png');
+	background-repeat:no-repeat;
+	background-position:bottom left;
+	background-color:#010103;
+}
+
+table .btn-primary{
+	margin:0 !important;
+}
+
+.btn-primary {
+	margin-top:25px;
+	font-family:Helvetica;
+	text-transform:uppercase;
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #005596;
+	*background-color: #005596;
+	background-image: -moz-linear-gradient(top, #006ABB, #005596);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#006ABB), to(#005596));
+	background-image: -webkit-linear-gradient(top, #006ABB, #005596);
+	background-image: -o-linear-gradient(top, #006ABB, #005596);
+	background-image: linear-gradient(to bottom, #006ABB, #005596);
+	background-repeat: repeat-x;
+	border-color: #005596;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#006ABB', endColorstr='#005596', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+	color: #FFFFFF;
+	background-color: #005596;
+	*background-color: #003bb3;
+}
+

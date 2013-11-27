@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>33F3AE12-739F-4158-B5E2-E16C15D498CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WorldsOfFun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7E3F77B2-70A2-4DE6-BBBC-BFEEC6502DD6</key>
+		<string>http://svn.isize.nl/svn/isize</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>projects/worldsoffun/app/platforms/ios/WorldsOfFun.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7E3F77B2-70A2-4DE6-BBBC-BFEEC6502DD6</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7E3F77B2-70A2-4DE6-BBBC-BFEEC6502DD6</key>
+		<string>http://svn.isize.nl/svn/isize</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.isize.nl/svn/isize/projects/worldsoffun/app/platforms/ios/WorldsOfFun.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7E3F77B2-70A2-4DE6-BBBC-BFEEC6502DD6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E3F77B2-70A2-4DE6-BBBC-BFEEC6502DD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>isize</string>
+		</dict>
+	</array>
+</dict>
+</plist>
